@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "Start the project with the folders and schema builded"
+        "Start the project with the folders and schema builded",
+        "feat complete"
     ]
 }
